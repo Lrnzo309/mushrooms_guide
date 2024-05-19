@@ -1,0 +1,143 @@
+.title{
+	 color: white;
+     display: flex;
+	 margin-top: 200px;
+	 justify-content: center;
+     align-items: center;
+	 font-size: 100px;
+}
+.img1{
+	 background-image: url('https://www.mauriziotommasini.it/wp-content/uploads/2020/10/funghi_proprieta_nutritive.jpg');
+	 width: 1100px; 
+     height: 500px;
+	 position: absolute;
+     margin-left: 20%;
+	 top: 100px;
+	 background-repeat: no-repeat;
+	 z-index: -1;
+	 background-size: cover;
+}
+.barra{ 
+     position: fixed;
+     display: flex;
+     background-color: coral;
+	 top: 0px;
+	 margin-top: 0px;
+     height: 100px;
+     width: 100%;
+     margin-left: 0%;
+	 left: 0px;
+     justify-content: center;
+     flex-direction: row;
+}
+.barra li{
+	 margin-top: 30px;
+     list-style-type: none;
+}
+.home{ 
+     margin-left: 0px;
+	 margin-top: 30px;
+	 font-size: 40px;
+}
+.buy_mushrooms{
+	 margin-left: 200px;
+	 margin-top: 30px;
+	 font-size: 40px;
+}
+.about_us{
+	 margin-left: 200px;	
+	 margin-top: 30px;
+	 font-size: 40px;
+}
+.Poisonous_mushrooms{
+	 display: flex;
+	 justify-content: left;
+	 font-size: 50px; 
+	 margin-top: 350px;
+	 color: red;
+}
+.testo{
+	 list-style-type: none;
+	 font-size: 25px;
+}
+.edible_mushrooms{
+	display: flex;
+	 justify-content: left;
+	 font-size: 50px; 
+	 margin-top: 100px;
+	 color: red;
+}
+	
+}
+.image10{
+	position: absolute;
+	margin-top:0px; 
+	margin-left:1300px;
+	height: 300px;
+	width: 400px;
+	z-index: -1;
+}
+.image2{
+	position: absolute;
+	margin-top:0px; 
+	margin-left:1300px;
+	height: 300px;
+	width: 400px;
+	z-index: -1;
+}
+.image3{
+	position: absolute;
+	margin-top:0px; 
+	margin-left:1300px;
+	height: 300px;
+	width: 400px;
+	z-index: -1;
+}
+.image4{
+	position: absolute;
+	margin-top:0px; 
+	margin-left:1300px;
+	height: 300px;
+	width: 400px;
+	z-index: -1;
+}
+.image5{
+	position: absolute;
+	margin-top:0px; 
+	margin-left:1300px;
+	height: 300px;
+	width: 400px;
+	z-index: -1;
+}
+.image6{
+	position: absolute;
+	margin-top:0px; 
+	margin-left:1300px;
+	height: 300px;
+	width: 400px;
+	z-index: -1;
+}
+.image7{
+	position: absolute;
+	margin-top:0px; 
+	margin-left:1300px;
+	height: 300px;
+	width: 400px;
+	z-index: -1;
+}
+.image8{
+	position: absolute;
+	margin-top:0px; 
+	margin-left:1300px;
+	height: 300px;
+	width: 400px;
+	z-index: -1;
+}
+.image9{
+	position: absolute;
+	margin-top:0px; 
+	margin-left:1300px;
+	height: 300px;
+	width: 400px;
+	z-index: -1;
+}
